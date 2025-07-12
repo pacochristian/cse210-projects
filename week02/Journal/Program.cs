@@ -16,6 +16,9 @@ class Program
             "How did I see the hand of the Lord in my life today?",
             "What was the strongest emotion I felt today?",
             "If I had one thing I could do over today, what would it be?",
+
+            // this is the creativity
+            
             "What was the most interesting thing that happened today?",
             "Was there any opportunity for service? What did I do? Why?",
             "What is one thing you're grateful about? Why?"
