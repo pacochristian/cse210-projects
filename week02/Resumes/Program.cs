@@ -25,6 +25,6 @@ class Program
         job1.DisplayJobDetails();
         myResume.DisplayResume();
 
-        Console.WriteLine(myResume._jobs[0]._jobTitle);
+        Console.WriteLine();
     }
 }
